@@ -6,17 +6,17 @@ from bs4 import BeautifulSoup
 import telebot
 
 # ---------------- CONFIG ----------------
-TELEGRAM_BOT_TOKEN = "Bot-Token" #replace with your bot token 
-ADMIN_CHAT_ID = "Chat-Id" #replace with your chat id
+TELEGRAM_BOT_TOKEN = "8470767265:AAHCp4484wjRYjmP-cqSzSciuv_TX7tMZAc" #replace with your bot token 
+ADMIN_CHAT_ID = "8053529348" #replace with your chat id
 COOKIES_FILE = "cookies.json"
 CONFIG_FILE = "config.json"
 CHECK_INTERVAL_SECONDS = 3.0
 MONITOR_LOOP_SLEEP = 1.5
 
-PINCODE = "171101"
+PINCODE = "854108"
 ADDRESS_ID = "auto"   # keep "auto" — detection only
-USER_EMAIL = "Frozendarkx1@gmail.com"#replace with your email
-USER_MOBILE = "9876543211" #replace with your number 
+USER_EMAIL = "primexprem07@gmail.com"#replace with your email
+USER_MOBILE = "7004166377" #replace with your number 
 USER_ID = "ae3f8553-977f-4430-aa8d-591d13fb022c"
 
 # Endpoints
